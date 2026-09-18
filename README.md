@@ -8,8 +8,6 @@
 
 ### I don't collect languages. I **weaponize** them.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=600&color=00F5D4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=writing+a+language+inside+a+language;turning+caffeine+into+git+history;Nix+so+my+future+self+doesn't+hate+me" alt="typing" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/wave.png" alt="" width="100%" />
@@ -51,12 +49,13 @@ Not a tutorial guy. A *tear-it-apart-and-rebuild-it* guy.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=go,rust,haskell,ts,nix,nodejs,react,linux,docker,neovim&perline=5" alt="skills" />
+<img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/skills.png" alt="skills" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=bharatmanral&theme=radical&hide_border=true&background=070714&ring=00F5D4&fire=FF6BCB&currStreakLabel=7B2FF7" alt="streak" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatmanral&layout=compact&theme=radical&hide_border=true&bg_color=070714&title_color=00F5D4&text_color=E2E8F0" alt="languages" height="170" />
+<img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/streak.png" alt="commit energy" height="170" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/langs.png" alt="languages" height="170" />
 
 </div>
 
@@ -74,9 +73,5 @@ Not a tutorial guy. A *tear-it-apart-and-rebuild-it* guy.
 <br/>
 
 `github.com/bharatmanral` · **mode: feral** · status: compiling something cursed
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=bharatmanral&style=for-the-badge&color=7b2ff7&label=PROFILE+HITS" alt="views"/>
 
 </div>
