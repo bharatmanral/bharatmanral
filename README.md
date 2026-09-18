@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### I don't collect languages. I **weaponize** them.
+### I don't collect languages. I **bend them until they sing**.
 
 </div>
 
