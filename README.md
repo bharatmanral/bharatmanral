@@ -1,118 +1,82 @@
-# `bharatmanral.exe` has entered the chat
+<div align="center">
+  <img src="./banner.svg" alt="Bharat Manral" width="100%" />
+</div>
 
-```text
- ▄▄▄▄    ██░ ██  ▄▄▄       ██▀███   ▄▄▄     ▄▄▄█████▓
-▓█████▄ ▓██░ ██▒▒████▄    ▓██ ▒ ██▒▒████▄   ▓  ██▒ ▓▒
-▒██▒ ▄██▒██▀▀██░▒██  ▀█▄  ▓██ ░▄█ ▒▒██  ▀█▄ ▒ ▓██░ ▒░
-▒██░█▀  ░▓█ ░██ ░██▄▄▄▄██ ▒██▀▀█▄  ░██▄▄▄▄██░ ▓██▓ ░ 
-░▓█  ▀█▓░▓█▒░██▓ ▓█   ▓██▒░██▓ ▒██▒ ▓█   ▓██▒ ▒██▒ ░ 
-░▒▓███▀▒ ▒ ░░▒░▒ ▒▒   ▓▒█░░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░░   
-▒░▒   ░  ▒ ░▒░ ░  ▒   ▒▒ ░  ░▒ ░ ▒░  ▒   ▒▒ ░   ░    
- ░    ░  ░  ░░ ░  ░   ▒     ░░   ░   ░   ▒    ░      
- ░       ░  ░  ░      ░  ░   ░           ░  ░        
-      ░                                              
-         MANRAL // polyglot chaos engine // est. 2020
-```
+<br/>
 
-> **Warning:** this profile contains interpreters, unfinished languages, Nix spells,  
-> and at least one project that only works on Tuesdays.
+<div align="center">
 
----
+### I don't collect languages. I **weaponize** them.
 
-## boot sequence
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=600&color=00F5D4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=writing+a+language+inside+a+language;turning+caffeine+into+git+history;Nix+so+my+future+self+doesn't+hate+me" alt="typing" />
 
-```bash
-$ whoami
-bharatmanral
+</div>
 
-$ uname -a
-Human/Curious (polyglot) — kernel panic optional
+<img src="./wave.svg" alt="" width="100%" />
 
-$ cat /proc/motto
-ship weird things. break them. rewrite them in another language.
-repeat until enlightened or until cargo check passes. whichever first.
+<div align="center">
+  <img src="./vibe.svg" alt="vibe cards" width="100%" />
+</div>
 
-$ systemctl status curiosity
-● curiosity.service — Active (running) since forever
-```
+<br/>
 
----
+## 🔥 what I'm actually about
 
-## character sheet
+I'm Bharat — I build **toy languages**, **bytecode VMs**, **CLIs**, and whatever cursed idea won't leave my head.
 
-| Stat | Value | Notes |
-|:-----|------:|:------|
-| 🧠 Languages spoken | too many | Go · Rust · Haskell · TypeScript · Nix · whatever's shiny |
-| 🔧 Builds interpreters | yes | bytecode VMs, toy langs, parsers that scream |
-| 🐧 Nix affinity | high | reproducibility is a love language |
-| 🐛 Debugged at 3am | legendary | once argued with a race condition and lost |
-| ☕ Coffee → commits | `O(n)` | n = urgency |
+Not a tutorial guy. A *tear-it-apart-and-rebuild-it* guy.
 
----
+<br/>
 
-## currently summoning
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=compiling+chaos...;rewriting+it+in+Rust+(again);Haskell+said+this+was+elegant;Go+said+this+was+simple;both+were+lying;ship+it+anyway+%F0%9F%9A%80" alt="typing SVG" />
-</p>
+| 🧪 Lab | 🗡️ Energy |
+|:------|:---------|
+| **ByteMe** | stack VM that eats bytes for breakfast |
+| **monkeyscript** | a language with opinions |
+| **rox / crox** | Lox bloodline. Unhinged parsers. |
+| **GoChain · GoRedis · GoChat** | reinventing infrastructure for sport |
+| **rustic · hive · syn** | systems gremlins |
+| **nix-manager · agli · thelogguy** | ops magic + log necromancy |
 
----
+</div>
 
-## the workshop (selected chaos)
+<br/>
 
-Things I build when sleep is optional:
+<img src="./wave.svg" alt="" width="100%" />
 
-| Artifact | Vibe |
-|:---------|:-----|
-| **ByteMe** | stack-based bytecode interpreter — eat bytes, spit results |
-| **monkeyscript** | a language with feelings (TypeScript edition) |
-| **rox / crox** | Lox descendants. They know what they did. |
-| **GoChain / GoRedis / GoChat** | reinventing wheels in Go, on purpose |
-| **rustic / hive / syn** | systems toys & experiments |
-| **nix-manager / agli / thelogguy** | ops-adjacent spells & log necromancy |
-| **makemore** | neural nets whispering names into existence |
+<div align="center">
 
-> Full museum downstairs ↓ — 90+ repos. Enter at your own `cargo` risk.
+## 🌈 stack? more like a **palette**
 
----
+<br/>
 
-## operating philosophy
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,rust,haskell,typescript,nix,nodejs,react,linux,docker,neovim&theme=dark&perline=5" alt="skills" />
 
-```diff
-+ prefer working weird over perfect boring
-+ every language is a different pair of glasses
-+ if it compiles, celebrate. if it doesn't, also celebrate — you learned something
-- no sacred stacks
-- no "I'll clean the commit history later" (okay sometimes later)
-```
+<br/><br/>
 
----
+<img src="https://github-readme-streak-stats.demolab.com/?user=bharatmanral&theme=radical&hide_border=true&background=070714&ring=00F5D4&fire=FF6BCB&currStreakLabel=7B2FF7" alt="streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatmanral&layout=compact&theme=radical&hide_border=true&bg_color=070714&title_color=00F5D4&text_color=E2E8F0" alt="languages" height="170" />
 
-## find me in the machine
+</div>
 
-```text
-     ┌─────────────────────────────────────┐
-     │  github.com/bharatmanral            │
-     │  status: online · mode: exploratory │
-     │  accepting: cool problems, PRs,     │
-     │             and cursed ideas        │
-     └─────────────────────────────────────┘
-                    │
-                    ▼
-              [ PRESS START ]
-```
+<br/>
 
-<p align="center">
-  <i>built by a human who treats programming languages like Pokémon — gotta try 'em all.</i>
-</p>
+<img src="./wave.svg" alt="" width="100%" />
 
----
+<div align="center">
 
-### visitor counter (because why not)
+### 📡 transmission
 
-![Profile views](https://komarev.com/ghpvc/?username=bharatmanral&color=39ff14&style=for-the-badge&label=SIGNAL+HITS)
+**I like:** weird compilers · beautiful failures · PRs that slap  
+**I hate:** sacred stacks · boring READMEs · sleeping on good ideas  
 
-<!--
-  Profile README for github.com/bharatmanral
-  Edit freely. Break things. That's the point.
--->
+<br/>
+
+`github.com/bharatmanral` · **mode: feral** · status: compiling something cursed
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bharatmanral&style=for-the-badge&color=7b2ff7&label=PROFILE+HITS" alt="views"/>
+
+</div>
