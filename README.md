@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Bharat Manral" width="100%" />
+  <img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/banner.png" alt="Bharat Manral" width="100%" />
 </div>
 
 <br/>
@@ -12,15 +12,15 @@
 
 </div>
 
-<img src="./wave.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/wave.png" alt="" width="100%" />
 
 <div align="center">
-  <img src="./vibe.svg" alt="vibe cards" width="100%" />
+  <img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/vibe.png" alt="vibe cards" width="100%" />
 </div>
 
 <br/>
 
-## 🔥 what I'm actually about
+## what I'm actually about
 
 I'm Bharat — I build **toy languages**, **bytecode VMs**, **CLIs**, and whatever cursed idea won't leave my head.
 
@@ -30,7 +30,7 @@ Not a tutorial guy. A *tear-it-apart-and-rebuild-it* guy.
 
 <div align="center">
 
-| 🧪 Lab | 🗡️ Energy |
+| Lab | Energy |
 |:------|:---------|
 | **ByteMe** | stack VM that eats bytes for breakfast |
 | **monkeyscript** | a language with opinions |
@@ -43,15 +43,15 @@ Not a tutorial guy. A *tear-it-apart-and-rebuild-it* guy.
 
 <br/>
 
-<img src="./wave.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/wave.png" alt="" width="100%" />
 
 <div align="center">
 
-## 🌈 stack? more like a **palette**
+## stack? more like a **palette**
 
 <br/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=go,rust,haskell,typescript,nix,nodejs,react,linux,docker,neovim&theme=dark&perline=5" alt="skills" />
+<img src="https://skillicons.dev/icons?i=go,rust,haskell,ts,nix,nodejs,react,linux,docker,neovim&perline=5" alt="skills" />
 
 <br/><br/>
 
@@ -62,11 +62,11 @@ Not a tutorial guy. A *tear-it-apart-and-rebuild-it* guy.
 
 <br/>
 
-<img src="./wave.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/bharatmanral/bharatmanral/main/wave.png" alt="" width="100%" />
 
 <div align="center">
 
-### 📡 transmission
+### transmission
 
 **I like:** weird compilers · beautiful failures · PRs that slap  
 **I hate:** sacred stacks · boring READMEs · sleeping on good ideas  
